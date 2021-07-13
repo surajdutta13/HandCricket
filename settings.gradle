@@ -1,0 +1,2 @@
+rootProject.name='HandCricket2'
+include ':app'
